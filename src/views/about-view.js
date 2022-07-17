@@ -39,7 +39,7 @@ class AboutView  extends LitElement {
     return html`
       <div>
         <h2>About me</h2>
-        <p>&nbsp;&nbsp;&nbsp;I studied Automatic Control Engineering, since then I love programming, specifically web development. Currently, I dedicate myself to "Frontend" with Javascript and it's definitely my thing. I've been working with technologies like React, Angular, Vue, LitElement & Polymer 3; in addition to many others a little more specific. I love studying new tech and if I had time I would master them all.</p>
+        <p>&nbsp;&nbsp;&nbsp;Je suis Fronted Developper (React, Node-red, NextJS, Lit, JS et TS) & Programmeur des microcontrôleurs(Raspberry-Pi, Arduino, Esp8266
       </div>
     `;
   }
